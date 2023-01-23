@@ -3,7 +3,7 @@ body {
   padding: 0;
   font-family: sans-serif;
   text-align: center;
-  background-color: rgb(80, 80, 129);
+  background-color:aqua
 }
 
 .text-wrap {
@@ -37,4 +37,7 @@ body {
 
 .ui.card:last-child {
   margin-bottom: 13px;
+}
+.ui.card>.extra, .ui.cards>.card>.extra {
+  background-color: aqua;
 }
