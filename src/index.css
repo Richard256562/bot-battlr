@@ -14,6 +14,7 @@ body {
   overflow-x: scroll;
   min-height: 300px;
   max-width: 100%;
+  background-color: beige;
 }
 
 .ui.grid > .row.bot-army-row {
@@ -36,8 +37,22 @@ body {
   margin-inline: 10px;
   margin-top: 0;
   display:grid;
+  
 }
 
 .ui.card:last-child {
   margin-bottom: 13px;
+}
+.ui.card>.image>img, .ui.cards>.card>.image>img {
+  display: block;
+  width: fit-content;
+  height: auto;
+  border-radius: inherit;
+  background-color: rgb(139, 59, 204);
+}
+.ui.card>.extra, .ui.cards>.card>.extra {
+  background-color: rgb(229, 235, 235);
+
+  
+
 }
