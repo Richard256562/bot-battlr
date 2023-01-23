@@ -2,7 +2,8 @@ body {
   margin: 0;
   padding: 0;
   font-family: sans-serif;
-  background-color: burlywood;
+  text-align: center;
+  background-color: rgb(80, 80, 129);
 }
 
 .text-wrap {
@@ -23,13 +24,17 @@ body {
 .ui.grid {
   padding: 0px 20px;
 }
-.ui.card>.image>img, .ui.cards>.card>.image>img {
-  display: block;
-  width: 100%;
-  height: auto;
-  border-radius: inherit;
-  background-color: rgb(139, 59, 204);
+
+.fa-sort {
+  font-size: 20px;
+  margin-inline: 5px;
 }
-.ui.card>.extra, .ui.cards>.card>.extra {
-  background-color: aqua;
+
+.ui.card {
+  margin-inline: 10px;
+  margin-top: 0;
+}
+
+.ui.card:last-child {
+  margin-bottom: 13px;
 }
