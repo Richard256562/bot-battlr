@@ -1,4 +1,7 @@
 # Getting Started with Create React App
+Author : RichardOkongo
+
+
 BOT-BATTLR PROJECT 
 Deployment link : https://storied-heliotrope-e6cf07.netlify.app/
 
