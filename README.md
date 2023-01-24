@@ -1,4 +1,6 @@
 # Getting Started with Create React App
+BOT-BATTLR PROJECT 
+Deployment link : https://storied-heliotrope-e6cf07.netlify.app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
